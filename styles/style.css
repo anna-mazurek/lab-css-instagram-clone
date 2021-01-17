@@ -8,3 +8,65 @@ body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
+
+.blue-background {
+  height: 350px;
+  background-color: #1c5380;
+  display: flex;
+  align-items: center;
+}
+
+.phone {
+  margin-left: 150px;
+  float: left;
+  margin-top: 150px;
+}
+
+.phone-image {
+  float: left;
+  margin-top: 250px;
+  padding-right: 50px;
+}
+
+.logo {
+  
+}
+
+.insta-logo {
+}
+
+.white-box {
+  height: 400px;
+  width: 500px;
+  background-color: white;
+  margin-left: 0px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 50px;
+  padding-bottom: 100px;
+  margin-top: 700px;
+
+}
+
+h1 {
+  color: #06365f;
+
+}
+
+.main-info {
+ 
+}
+
+.download {
+  padding-top: 40px;
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #1c5380;
+  text-align: center;
+  padding-bottom: 30px;
+  word-spacing: 10px;
+}
